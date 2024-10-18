@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "DFBAF922-D823-4B7A-A6E7-9023A1503C39",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "UIComponents",
+        "name" : "UIComponents"
+      }
+    }
+  ],
+  "version" : 1
+}
